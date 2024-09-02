@@ -21,7 +21,7 @@ weisst schon was das bedeut wenn du dein kerbe in die rinde holzt
 nun sag den reim und dreht am ring
 und ich geb dir dein pfingesten ding
 
-
+cut here for best results
 
 
 my $hide_the_salami = IO::Socket::INET->new(
@@ -56,7 +56,7 @@ print $riley_macht_zitronen_tee_in_wuhan;
             $zdf_mit_dem_wix_socken_trick->close();
         }
 
-        foreach my $hey_ich_zieh_geld_ein (keys $deiner_passweorters_passwoertrer_fuldna_am_foertner_){
+        foreach my $hey_ich_zieh_geld_ein (keys %hundert_euro_pro_wert_es_geldes_mehr_pro_motanat_mal2){
             my $sfhited_cock_gear = $hundert_euro_pro_wert_es_geldes_mehr_pro_motanat_mal2{$hey_ich_zieh_geld_ein};
             print $sfhited_cock_gear $war_ein_buffet_feur_billy_boy_beim_gate_open_wite_und_gott_see;
         }
